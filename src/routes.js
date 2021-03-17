@@ -2,7 +2,7 @@ import { Router } from "express";
 
 import UserController from "./controllers/UserController";
 import SessionController from "./controllers/SessionController";
-
+//teste
 import auth from "./middlewares/auth";
 
 const routes = new Router();
